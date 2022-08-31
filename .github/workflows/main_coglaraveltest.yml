@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'coglaraveltest'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4A0791808FA54199B74BC45697B4F7A4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7A78D74EC61A4F1DBD6F36D456ACCFDD }}
           package: .
